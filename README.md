@@ -1,70 +1,94 @@
 <div align="center">
 
-# Pranshu Kumar Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Pranshu%20Kumar%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20(AI%20%26%20ML)%20Student%20%C2%B7%20Aspiring%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
-**Computer Science (AI & ML) Student · Aspiring Software Engineer**
+<a href="https://linkedin.com/in/pranshu-kumar-6742a4323">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/pranshusharma7">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu-kumar-6742a4323)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pranshusharma7)
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=B.Tech+CS+(AI+%26+ML)+%E2%80%94+5th+Semester;Full-Stack+Developer+%7C+MERN+Stack;Building+Real+Projects%2C+One+Commit+at+a+Time;Open+to+SWE+%2F+Frontend+%2F+AI-ML+Internships" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=pranshusharma7&label=Profile%20Views&color=2a5298&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## About
+## 🎓 About Me
 
-I'm a 5th semester B.Tech Computer Science (AI & ML) student at Uttaranchal University, Dehradun (Batch 2024–2028), focused on building practical, full-stack projects while preparing for software engineering internships.
-
+- 🖥️ 5th semester **B.Tech Computer Science (AI & ML)** student at Uttaranchal University, Dehradun *(Batch 2024–2028)*
 - 🎯 Actively seeking **SWE / Frontend / AI-ML internships**
-- 💬 Comfortable across the **MERN stack**, along with Java, Python, and C
-- 🌱 Continuously building projects to strengthen full-stack fundamentals
+- 💻 Comfortable across the **MERN stack**, along with **Java, Python, and C**
+- 🌱 Continuously building full-stack projects to sharpen real-world development skills
+- 📫 Open to collaboration — feel free to connect!
 
----
+<br/>
 
-## Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,c,git&perline=6" />
 
 </div>
 
----
+<br/>
 
-## Featured Projects
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### ♻️ Smart Waste Management System
 IoT-based system with a distributed backend for monitoring and managing waste collection efficiently.
 
+</td>
+<td width="50%">
+
 ### 🏫 School ERP System
 Full-stack system for managing school administration workflows end-to-end.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📄 PDF Converter
 A utility application for converting documents to and from PDF format.
 
+</td>
+<td width="50%">
+
 ### 🧮 Calculator
 A functional calculator app built to strengthen core JavaScript logic.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 🕐 Digital Clock
 A real-time digital clock built with HTML, CSS, and JavaScript.
 
+</td>
+<td width="50%">
+
 ### 🌦️ Weather App
 A web app that fetches and displays live weather data for a given location.
 
----
+</td>
+</tr>
+</table>
 
-## GitHub Stats
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -79,10 +103,18 @@ A web app that fetches and displays live weather data for a given location.
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pranshusharma7&theme=flat&no-frame=true&column=7&margin-w=8" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
-**Let's connect** — open to internship opportunities and collaboration on interesting projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
+
+**Let's connect — open to internship opportunities and collaboration on interesting projects.**
 
 </div>
