@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,40:1e3c72,100:2a5298&height=260&section=header&text=Pranshu%20Kumar%20Sharma&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CS%20(AI%20%26%20ML)%20Student%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Aspiring%20Software%20Engineer&descAlignY=60&descSize=17" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=5B9BFF&center=true&vCenter=true&random=false&width=780&height=50&lines=Hi+%F0%9F%91%8B+I'm+Pranshu+Kumar+Sharma;B.Tech+CSE+(AI+%26+ML)+%7C+Uttaranchal+University;I+build+full-stack+apps+with+Next.js+%26+FastAPI;RAG+%E2%9C%A6+LLM+Apps+%E2%9C%A6+MERN+%E2%9C%A6+TypeScript;Building+real+projects%2C+one+commit+at+a+time;Open+to+SWE+%2F+Frontend+%2F+AI-ML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://portfolio-eosin-eight-2z5vvoar04.vercel.app"><img src="./assets/banner.svg" alt="Pranshu Kumar Sharma - Full-Stack Developer" width="100%"/></a>
 
 <br/>
 
@@ -13,20 +11,30 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pranshusharma7&label=Profile%20Views&color=2a5298&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/pranshusharma7?style=for-the-badge&color=2a5298&logo=github" />
-<img src="https://img.shields.io/github/stars/pranshusharma7?style=for-the-badge&color=2a5298&logo=github" />
+<img src="./assets/tech-marquee.svg" alt="Tech I work with" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/title-about.svg" alt="About Me" width="100%"/>
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="240" align="center" valign="top">
+
+<img src="https://github.com/pranshusharma7.png?size=240" width="200" alt="Pranshu Kumar Sharma" />
+
+**Pranshu Kumar Sharma**
+
+*CS (AI & ML) · Uttaranchal University*
+
+</td>
+<td valign="top">
+
+Hi 👋 I'm Pranshu, a 5th-semester B.Tech CSE (AI & ML) student from India. I like building full-stack products that actually go live, from RAG-based study assistants to streaming platforms and healthcare tools.
 
 ```js
 const pranshu = {
   education : "B.Tech CSE (AI & ML) @ Uttaranchal University, Dehradun (2024 - 2028)",
-  semester  : "5th",
   location  : "India 🇮🇳",
   frontend  : ["React", "Next.js", "TypeScript", "Tailwind CSS"],
   backend   : ["Node.js", "Express", "FastAPI", "MongoDB", "PostgreSQL"],
@@ -36,33 +44,35 @@ const pranshu = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
-
-## 🛠️ Tech Stack
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-**💻 Languages**
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,html,css&perline=7" />
-
-**🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&perline=4" />
-
-**⚙️ Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,prisma,firebase&perline=8" />
-
-**🧰 DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,vscode&perline=5" />
+<img src="https://komarev.com/ghpvc/?username=pranshusharma7&label=Profile%20Views&color=2a5298&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/pranshusharma7?style=for-the-badge&color=2a5298&logo=github" />
+<img src="https://img.shields.io/github/stars/pranshusharma7?style=for-the-badge&color=2a5298&logo=github" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🚀 Featured Projects
+<img src="./assets/title-tech.svg" alt="Tech Stack" width="100%"/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,html,css&perline=7" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi&perline=7" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma,firebase,docker,git,github,vercel,vscode&perline=10" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%"/>
+
+<img src="./assets/title-projects.svg" alt="Featured Projects" width="100%"/>
 
 <table>
 <tr>
@@ -93,7 +103,7 @@ AI-powered patient case-taking platform: registration, symptom collection, docum
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 
-[🔗 Live Demo](https://medi-kiosk-ochre.vercel.app)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-27d17f?style=for-the-badge)](https://medi-kiosk-ochre.vercel.app)
 
 </td>
 </tr>
@@ -108,7 +118,7 @@ Online compiler & code editor with a VS Code-inspired UI, Monaco Editor, syntax 
 ![Monaco](https://img.shields.io/badge/Monaco%20Editor-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[🔗 Live Demo](https://codeforge-jgy9.vercel.app)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-27d17f?style=for-the-badge)](https://codeforge-jgy9.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -125,7 +135,7 @@ Movies, TV series and anime discovery platform with HLS streaming, local video p
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![TMDb](https://img.shields.io/badge/TMDb%20API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white)
 
-[🔗 Live Demo](https://cinverse-fgmj.vercel.app) · [📂 Code](https://github.com/pranshusharma7/cinverse)
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-27d17f?style=for-the-badge)](https://cinverse-fgmj.vercel.app) [![Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github)](https://github.com/pranshusharma7/cinverse)
 
 </td>
 </tr>
@@ -185,31 +195,31 @@ Core JavaScript, HTML and CSS practice projects.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 📌 Live from my GitHub
+<img src="./assets/title-github.svg" alt="Live from my GitHub" width="100%"/>
 
 <div align="center">
 
-<a href="https://github.com/pranshusharma7/cinverse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=cinverse&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/pranshusharma7/Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=Calculator&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/pranshusharma7/cinverse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=cinverse&theme=tokyonight&hide_border=true&border_radius=12" alt="cinverse repo" /></a>
+<a href="https://github.com/pranshusharma7/Calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=Calculator&theme=tokyonight&hide_border=true&border_radius=12" alt="Calculator repo" /></a>
 
-<a href="https://github.com/pranshusharma7/TIC-TAK-TOE-WEBSITE-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=TIC-TAK-TOE-WEBSITE-&theme=tokyonight&hide_border=true&border_radius=12" /></a>
-<a href="https://github.com/pranshusharma7/Terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=Terminal&theme=tokyonight&hide_border=true&border_radius=12" /></a>
+<a href="https://github.com/pranshusharma7/TIC-TAK-TOE-WEBSITE-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=TIC-TAK-TOE-WEBSITE-&theme=tokyonight&hide_border=true&border_radius=12" alt="Tic-Tac-Toe repo" /></a>
+<a href="https://github.com/pranshusharma7/Terminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=pranshusharma7&repo=Terminal&theme=tokyonight&hide_border=true&border_radius=12" alt="Terminal repo" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🔭 What I'm Building Next
+<img src="./assets/title-next.svg" alt="What I'm building next" width="100%"/>
 
 - 🏥 **Hospital Management System**: a project meant to be genuinely useful and to stand out to recruiters
 - 🩺 **Case Care**: patient case-taking and clinical management with AI-assisted summaries
 - 🏆 **Smart India Hackathon**: participating again this year
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🏆 Achievements & Certifications
+<img src="./assets/title-achievements.svg" alt="Achievements" width="100%"/>
 
 <div align="center">
 
@@ -218,36 +228,28 @@ Core JavaScript, HTML and CSS practice projects.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 📊 GitHub Stats
+<img src="./assets/title-stats.svg" alt="GitHub Stats" width="100%"/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranshusharma7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshusharma7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranshusharma7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshusharma7&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pranshusharma7&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=pranshusharma7&theme=tokyonight&hide_border=true&border_radius=12" alt="Streak stats" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranshusharma7&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshusharma7&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pranshusharma7&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranshusharma7&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 🐍 Contribution Snake
+<img src="./assets/title-snake.svg" alt="Contribution Snake" width="100%"/>
 
 <div align="center">
 
@@ -259,19 +261,9 @@ Core JavaScript, HTML and CSS practice projects.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
-## 💬 Daily Dose of Inspiration
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2a5298,100:0f2027&height=3" width="100%"/>
-
-## 🤝 Let's Connect
+<img src="./assets/title-connect.svg" alt="Let's connect" width="100%"/>
 
 I'm open to **internships (India and remote), collaboration and interesting projects** in full-stack development and AI/ML.
 
@@ -283,8 +275,6 @@ I'm open to **internships (India and remote), collaboration and interesting proj
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,50:1e3c72,100:0f2027&height=130&section=footer&animation=twinkling" width="100%"/>
-
-*⭐ Thanks for stopping by! Drop a star if you liked the profile.*
+<img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
 
 </div>
